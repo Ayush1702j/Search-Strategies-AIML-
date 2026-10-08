@@ -1,4 +1,4 @@
-#  Search Strategies
+#  Search Strategies.
 
 A complete, exam-oriented study resource for **Artificial Intelligence – Unit II: Search Strategies**.
 
